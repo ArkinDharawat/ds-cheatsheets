@@ -5,30 +5,106 @@ List of Data Science Cheatsheets to rule the world.
 ## Table of Contents
 
 - [Business Science](https://github.com/FavioVazquez/ds-cheatsheets#business-science)
+    - [Business Science Problem Framework](https://github.com/business-science/cheatsheets/blob/master/Business_Science_Problem_Framework.pdf)
+    - [Data Science with Python Workflow](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_Python_Workflow.pdf)
+    - [Data Science with R Workflow](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_R_Workflow.pdf)
 - [Python](https://github.com/FavioVazquez/ds-cheatsheets#python)
+    - [Python Basics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/python_basics.pdf)
+    - [Pandas Basics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/pandas_basics.pdf)
+    - [Pandas](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/pandas.pdf)
+    - [Importing Data](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/import_data.pdf)
+    - [Jupyter](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/jupyter.pdf)
+    - [Numpy Basics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/numpy_basics.pdf)
+    - [Beginners Python Cheat Sheet](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Beginners-Python-Cheat-Sheet.pdf)
+    - [Intermediate Python](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/Intermediate-Python-Cheat-Sheet.pdf)
+    - [Python REGEX](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/python-regular-expressions-cheat-sheet.pdf)
+    - [Python 3 Memento](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Others/mementopython3-english.pdf)
 - [R](https://github.com/FavioVazquez/ds-cheatsheets#r)
+    - [Tidiverse](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/Datacamp/tidiverse_beginners.pdf)
+    - [data.table](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/Datacamp/data_table.pdf)
+    - [xts](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/Datacamp/xts.pdf)
+    - [Base R](https://github.com/rstudio/cheatsheets/blob/master/base-r.pdf)
+    - [Data Import with readr](https://github.com/rstudio/cheatsheets/blob/master/data-import.pdf)
+    - [Data Transformation with Dplyr](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
+    - [Apply Functions with purrr](https://github.com/rstudio/cheatsheets/blob/master/purrr.pdf)
+    - [Data transformation with data.table](https://github.com/rstudio/cheatsheets/blob/master/datatable.pdf)
+    - [Dates and Times with lubridate](https://github.com/rstudio/cheatsheets/blob/master/lubridate.pdf)
+    - [Randomizr](https://github.com/rstudio/cheatsheets/blob/master/randomizr.pdf)
+    - [Regular Expressions](https://github.com/rstudio/cheatsheets/blob/master/regex.pdf)
+    - [Work with Strings with stringr](https://github.com/rstudio/cheatsheets/blob/master/strings.pdf)
+    - [Tidy Evaluation with rlang](https://github.com/rstudio/cheatsheets/blob/master/tidyeval.pdf)
+    - [Xplain](https://github.com/rstudio/cheatsheets/blob/master/xplain.pdf)
+    - [Sintax Comparison](https://github.com/rstudio/cheatsheets/blob/master/syntax.pdf)
+    - [Data and Variable Transformation with sjmisc](https://github.com/rstudio/cheatsheets/blob/master/sjmisc.pdf)
+    - [R Markdown (PDF)](https://github.com/rstudio/cheatsheets/blob/master/rmarkdown-2.0.pdf)
+    - [Package Development with devtools](https://github.com/rstudio/cheatsheets/blob/master/package-development.pdf)
 - [Math and Calculus](https://github.com/FavioVazquez/ds-cheatsheets#math-and-calculus)
+    - [Refresher Algebra and Calculus](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/refresher-algebra-calculus.pdf)
+    - [Refresher Probabilities and Statistics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/refresher-probabilities-statistics.pdf)
+    - [Fundamentals of Probabilities](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/Probability%20Cheatsheet.pdf)
 - [Big Data](https://github.com/FavioVazquez/ds-cheatsheets#big-data)
+    - [Pyspark RDD](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Big_Data/pyspark_rdd.pdf)
+    - [Pyspark DF](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Big_Data/pyspark_df.pdf)
+    - [Dask](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Big_Data/daskcheatsheet.pdf)
+    - [Sparklyr](https://github.com/rstudio/cheatsheets/blob/master/sparklyr.pdf)
 - [Machine Learning](https://github.com/FavioVazquez/ds-cheatsheets#machine-learning)
+    - [Scitk-Learn (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/scikit-learn.pdf)
+    - [Machine Learning Modelling in R](https://github.com/rstudio/cheatsheets/blob/master/Machine%20Learning%20Modelling%20in%20R.pdf)
+    - [Caret](https://github.com/rstudio/cheatsheets/blob/master/caret.pdf)
+    - [Estimatr](https://github.com/rstudio/cheatsheets/blob/master/estimatr.pdf)
+    - [H2O](https://github.com/rstudio/cheatsheets/blob/master/h2o.pdf)
+    - [mlr](https://github.com/rstudio/cheatsheets/blob/master/mlr.pdf)
+    - [Regression](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/bsu-regression.pdf)
+    - [VIP Supervised Learning](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/cheatsheet-supervised-learning.pdf)
+    - [Segmentation and Clustering](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/segmentation_clustering.pdf)
+    - [VIP Unsupervised Learning](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/cheatsheet-unsupervised-learning.pdf)
+    - [VIP Machine Learning Tips and Tricks](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Tricks/cheatsheet-machine-learning-tips-and-tricks.pdf)
+    - [Choosing the right model](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/microsoft-machine-learning-algorithm-cheat-sheet-v7-1.png)
 - [Deep Learning](https://github.com/FavioVazquez/ds-cheatsheets#deep-learning)
+    -[Neural Nets](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/Neural%20Network%20Cells.png)
+    - [Keras RStudio](https://github.com/rstudio/cheatsheets/blob/master/keras.pdf)
+    - [Keras](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/keras.pdf)
+    - [Deep Learning Basics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-deep-learning.pdf)
+    - [Convolutional Neural Networkds](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-convolutional-neural-networks.pdf)
+    - [Recurrent Neural Networks](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks.pdf)
+    - [Tips and Tricks](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-deep-learning-tips-tricks.pdf)
 - [SQL](https://github.com/FavioVazquez/ds-cheatsheets#sql)
+    - [SQL cheatsheet by sqltutorial (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/SQL-cheat-sheet.pdf)
+    - [SQL cheatsheet by Rebel Labs](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/zt_sql_cheat_sheet.pdf)
 - [Data Visualization](https://github.com/FavioVazquez/ds-cheatsheets#data-visualization)
+    - [Matplotlib](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/matplotlib.pdf)
+    - [Seaborn](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/seaborn.pdf)
+    - [Bokeh](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/bokeh.pdf)
+    - [Comprehensive Guide to Data Visualization in Python](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Data_Visualization/img/data-visualisation-infographics-python.jpg)
+    - [Ggplot2](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
+    - [Leaflet](https://github.com/rstudio/cheatsheets/blob/master/leaflet.pdf)
+    - [Cartography](https://github.com/rstudio/cheatsheets/blob/master/cartography.pdf)
+    - [Comprehensive Guide to Data Visualization in R](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Data_Visualization/Comprehensive%20Guide%20to%20Data%20Visualization_R.pdf)
+    - [Simple Features sf](https://github.com/rstudio/cheatsheets/blob/master/sf.pdf)
+    - [survminer](https://github.com/rstudio/cheatsheets/blob/master/survminer.pdf)
 - [Data Science in General and Others](https://github.com/FavioVazquez/ds-cheatsheets#data-science-in-general-and-others)
+    - [Shiny](https://github.com/rstudio/cheatsheets/blob/master/shiny.pdf)
+    - [Vim](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Vim/vim_cheat_sheet_for_programmers_print.pdf)
+    - [Emacs](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.pdf)
+    - [Git - Atlassian's Cheatsheet](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/atlassian-git-cheatsheet.pdf)
+    - [DVC](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/DVC/DVC_cheatsheet.pdf)
+    - [BASH](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/bash_cheat_sheet.pdf)
 
+- [Data Science Cheatsheet Takeaway](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf)
 ----------------------------------------
 
 
-# [Business Science](https://www.business-science.io/) 
+# [Business Science](https://www.business-science.io/)
 
-## [Business Science Problem Framework (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Business_Science_Problem_Framework.pdf)
+## [Business Science Problem Framework (PDF)](https://github.com/business-science/cheatsheets/blob/master/Business_Science_Problem_Framework.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Business_Science_Problem_Framework.png)
 
-## [Data Science with Python Workflow (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Data_Science_With_Python_Workflow.pdf)
+## [Data Science with Python Workflow (PDF)](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_Python_Workflow.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Data_Science_With_Python_Workflow.png)
 
-## [Data Science with R Workflow (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/Data_Science_With_R_Workflow.pdf)
+## [Data Science with R Workflow (PDF)](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_R_Workflow.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Business_Science/img/Data_Science_With_R_Workflow.png)
 
@@ -56,15 +132,19 @@ List of Data Science Cheatsheets to rule the world.
 
 ## [Python Crash Course](https://github.com/ehmatthes/pcc)
 
-- [Begginers Python Cheat Sheet (Long PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Begginers-Python-Cheat-Sheet.pdf)
+- [Beginners Python Cheat Sheet (Long PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Beginners-Python-Cheat-Sheet.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Begginers-Python-Cheat-Sheet.png)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Python_Crash_Course/Beginners-Python-Cheat-Sheet.png)
 
 ## Dataquest
 
 - [Intermediate Python (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/Intermediate-Python-Cheat-Sheet.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/img/Intermediate-Python-Cheat-Sheet-1.png)
+
+- [Python REGEX (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/python-regular-expressions-cheat-sheet.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/img/dataquest-python-regex.png)
 
 ## Others
 
@@ -89,72 +169,72 @@ List of Data Science Cheatsheets to rule the world.
 
 ## RStudio
 
-- [R Studio IDE (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/rstudio-ide.pdf)
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/rstudio-ide.png)
+- [R Studio IDE (PDF)](https://github.com/rstudio/cheatsheets/blob/master/rstudio-ide.pdf)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/rstudio-ide.png)
 
-- [Base R (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/base-r.pdf)
+- [Base R (PDF)](https://github.com/rstudio/cheatsheets/blob/master/base-r.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/base-r.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/base-r.png)
 
-- [Data Import with readr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/data-import.pdf)
+- [Data Import with readr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/data-import.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-import.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/data-import.png)
 
-- [Data Transformation with Dplyr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/data-transformation.pdf)
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-transformation.png)
+- [Data Transformation with Dplyr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/data-transformation.png)
 
-- [Apply Functions with purrr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/purrr.pdf)
+- [Apply Functions with purrr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/purrr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/purrr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/purrr.png)
 
-- [Data transformation with data.table (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/datatable.pdf)
+- [Data transformation with data.table (PDF)](https://github.com/rstudio/cheatsheets/blob/master/datatable.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/datatable.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/datatable.png)
 
-- [Dates and Times with lubridate (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/lubridate.pdf)
+- [Dates and Times with lubridate (PDF)](https://github.com/rstudio/cheatsheets/blob/master/lubridate.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/lubridate.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/lubridate.png)
 
-- [Randomizr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/randomizr.pdf)
+- [Randomizr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/randomizr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/randomizr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/randomizr.png)
 
-- [Regular Expressions (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/regex.pdf)
+- [Regular Expressions (PDF)](https://github.com/rstudio/cheatsheets/blob/master/regex.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/regular-expressions.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/regular-expressions.png)
 
-- [Work with Strings with stringr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/strings.pdf)
+- [Work with Strings with stringr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/strings.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/strings.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/strings.png)
 
-- [Tidy Evaluation with rlang (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/tidyeval.pdf)
+- [Tidy Evaluation with rlang (PDF)](https://github.com/rstudio/cheatsheets/blob/master/tidyeval.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/tidyeval.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/tidyeval.png)
 
-- [Xplain (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/xplain.pdf)
+- [Xplain (PDF)](https://github.com/rstudio/cheatsheets/blob/master/xplain.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/xplain.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/xplain.png)
 
-- [Sintax Comparison (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/syntax.pdf)
+- [Sintax Comparison (PDF)](https://github.com/rstudio/cheatsheets/blob/master/syntax.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/syntax.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/syntax.png)
 
-- [Data and Variable Transformation with sjmisc (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/sjmisc.pdf)
+- [Data and Variable Transformation with sjmisc (PDF)](https://github.com/rstudio/cheatsheets/blob/master/sjmisc.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/sjmisc.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/sjmisc.png)
 
-- [R Markdown (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/rmarkdown-2.0.pdf)
+- [R Markdown (PDF)](https://github.com/rstudio/cheatsheets/blob/master/rmarkdown-2.0.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/rmarkdown-2.0.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/rmarkdown-2.0.png)
 
-- [Package Development with devtools (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/package-development.pdf)
+- [Package Development with devtools (PDF)](https://github.com/rstudio/cheatsheets/blob/master/package-development.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/package-development.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/package-development.png)
 
 
 # Math and Calculus
 
-From @afshinea:
+From @afshinea, @stat110 and @wzchen:
 
 - [Refresher Algebra and Calculus (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/refresher-algebra-calculus.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-algebra-calculus/refresher-algebra-calculus-1.png)
@@ -164,6 +244,18 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-1.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-2.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-3.png)
+
+- [Fundamentals of Probabilities (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/Probability%20Cheatsheet.pdf)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/1.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/2.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/3.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/4.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/5.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/6.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/7.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/8.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/9.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/10.PNG)
 
 # Big Data
 
@@ -184,9 +276,9 @@ From @afshinea:
 
 ## R
 
-- [Sparklyr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/sparklyr.pdf)
+- [Sparklyr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/sparklyr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/sparklyr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/sparklyr.png)
 
 # Machine Learning
 
@@ -198,30 +290,33 @@ From @afshinea:
 
 ## R
 
-- [Machine Learning Modelling in R (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/Machine%20Learning%20Modelling%20in%20R.pdf)
+- [Machine Learning Modelling in R (PDF)](https://github.com/rstudio/cheatsheets/blob/master/Machine%20Learning%20Modelling%20in%20R.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/Machine%20Learning%20Modelling%20in%20R.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/Machine%20Learning%20Modelling%20in%20R.png)
 
-- [Caret (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/caret.pdf)
+- [Caret (PDF)](https://github.com/rstudio/cheatsheets/blob/master/caret.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/caret.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/caret.png)
 
-- [Estimatr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/estimatr.pdf)
+- [Estimatr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/estimatr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/estimatr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/estimatr.png)
 
-_ [H2O (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/h2o.pdf)
+_ [H2O (PDF)](https://github.com/rstudio/cheatsheets/blob/master/h2o.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/h2o.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/h2o.png)
 
-- [mlr (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/mlr.pdf)
+- [mlr (PDF)](https://github.com/rstudio/cheatsheets/blob/master/mlr.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/mlr.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/mlr.png)
 
 
 ## Supervised Learning
+- [Regression  (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/bsu-regression.pdf)
 
-From @afshinea: 
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/img/bsu-regression-cheatsheet.png)
+
+From @afshinea:
 
 - [VIP Supervised Learning (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/cheatsheet-supervised-learning.pdf)
 
@@ -231,6 +326,10 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/img/cheatsheet-supervised-learning/cheatsheet-supervised-learning-4.png)
 
 ## Unsupervised Learning
+- [Segmentation and Clustering (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/segmentation_clustering.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/img/BSU-segmentation-clustering.png)
+
 
 From @afshinea:
 
@@ -250,7 +349,7 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Tricks/img/cheatsheet-machine-learning-tips-and-tricks/cheatsheet-machine-learning-tips-and-tricks-2.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Tricks/img/cheatsheet-machine-learning-tips-and-tricks/cheatsheet-machine-learning-tips-and-tricks-3.png)
 
-## Chossing the right model
+## Choosing the right model
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/microsoft-machine-learning-algorithm-cheat-sheet-v7-1.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Choosing_Model/img/ml_map_scikit_learn.png)
@@ -266,9 +365,9 @@ From @afshinea:
 
 ## R
 
-- [Keras RStudio (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/keras.pdf)
+- [Keras RStudio (PDF)](https://github.com/rstudio/cheatsheets/blob/master/keras.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/keras.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/keras.png)
 
 
 ## Python
@@ -277,7 +376,7 @@ From @afshinea:
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/img/keras-1.png)
 
-From @afshinea: 
+From @afshinea:
 
 - [Deep Learning Basics (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-deep-learning.pdf)
 
@@ -342,39 +441,67 @@ From @afshinea:
 
 ## R
 
-- [Ggplot2 (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/data-visualization-2.1.pdf)
+- [Ggplot2 (PDF)](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/data-visualization-2.1.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/data-visualization-2.1.png)
 
-- [Leaflet (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/leaflet.pdf)
+- [Leaflet (PDF)](https://github.com/rstudio/cheatsheets/blob/master/leaflet.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/leaflet.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/leaflet.png)
 
-- [Cartography (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/cartography.pdf)
+- [Cartography (PDF)](https://github.com/rstudio/cheatsheets/blob/master/cartography.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/cartography.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/cartography.png)
 
 - [Comprehensive Guide to Data Visualization in R](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Data_Visualization/Comprehensive%20Guide%20to%20Data%20Visualization_R.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Data_Visualization/img/Comprehensive%20Guide%20to%20Data%20Visualization_R-1.png)
 
-- [Simple Features sf (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/sf.pdf)
+- [Simple Features sf (PDF)](https://github.com/rstudio/cheatsheets/blob/master/sf.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/sf.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/sf.png)
 
-- [survminer (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/survminer.pdf)
+- [survminer (PDF)](https://github.com/rstudio/cheatsheets/blob/master/survminer.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/survminer.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/survminer.png)
 
 # Data Science in General and Others
 
-- [Shiny (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/shiny.pdf)
+- [Shiny (PDF)](https://github.com/rstudio/cheatsheets/blob/master/shiny.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/RStudio/img/shiny.png)
+![](https://github.com/rstudio/cheatsheets/blob/master/pngs/shiny.png)
 
 - [Vim (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Vim/vim_cheat_sheet_for_programmers_print.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Vim/vim_cheat_sheet_for_programmers_print.png)
+
+- [Emacs (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.png)
+
+- [Git - Atlassian's Cheatsheet (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/atlassian-git-cheatsheet.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/img/Atlassian_git_cheatsheet_pg1.png)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/img/Atlassian_git_cheatsheet_pg2.png)
+
+- [DVC (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/DVC/DVC_cheatsheet.pdf)
+
+![](https://raw.githubusercontent.com/FavioVazquez/ds-cheatsheets/master/General/DVC/img/DVC_cheatsheet.png)
+
+- [BASH (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/bash_cheat_sheet.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg1.png)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg2.png)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg3.png)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg4.png)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg5.png)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg6.png)
 
 By @ml874
 
@@ -390,6 +517,7 @@ By @ml874
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/img/data-science-cheatsheet/data-science-cheatsheet-08.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/img/data-science-cheatsheet/data-science-cheatsheet-09.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/img/data-science-cheatsheet/data-science-cheatsheet-10.png)
+
 
 # Contributors:
 
